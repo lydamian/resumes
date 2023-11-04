@@ -40,7 +40,9 @@ Highly skilled software engineer with expertise in modern technologies, adept at
 - Restocked shelves, assisted customers with questions, and cashiered.
 
 ## Personal Projects
-- Open source contributor to [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag).
+- Open source contributions
+  - [thomaspoignant/go-feature-flag](https://github.com/thomaspoignant/go-feature-flag).
+  - [CorentinTh/it-tools](https://github.com/CorentinTh/it-toolsgo-feature-flag).
 - [fluffypawpal.com](https://fluffypawpal.com): Kitten adoption e-commerce website built with Sveltekit, Tailwind CSS, and Supabase.
 
 ## Skills
