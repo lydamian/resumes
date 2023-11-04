@@ -7,9 +7,8 @@ Address: Fullerton, CA, 92833
 Highly skilled software engineer with expertise in modern technologies, adept at problem-solving, business alignment, and fostering a collaborative work environment.
 
 ## Education
-**University of California, Irvine**
-* Bachelor of Science in Computer Science (2017 - 2019)
-* Cumulative Undergraduate GPA: 3.7
+**University of California, Irvine** Bachelor of Science in Computer Science (2017 - 2019)
+* GPA: 3.7
 * Accolades: Presidents Recipient (4x), Dean's Honor Recipient (8x)
 
 ## Work Experience
