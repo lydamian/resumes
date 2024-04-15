@@ -5,7 +5,7 @@ Address: Fullerton, CA, 92833
 
 ## Professional Summary
 Software engineer with 4 years experience. Proven ability to translate business needs into code, deploy intuitive solutions
-and active participant in tactical and strategic planning
+and active participant in tactical and strategic planning lifecycle.
 
 ## Education
 **University of California, Irvine** Bachelor of Science in Computer Science (2017 - 2019)
@@ -15,7 +15,7 @@ and active participant in tactical and strategic planning
 **Backend Software Engineer** at *Raya, Los Angeles*  
 *February 2021 - Current*
 - Designed and implemented an internal A/B testing framework, saving over $100k in subscription fees and Paved the way in rolling out 30+ business initiatives that have increased revenue by 3x using Node.js, PostgreSQL, and modern cryptographic hashing algorithms
-- Led a team of 4 engineers to rewrite the People recommendation algorithm, achieving a 40% improvement in key metrics and an 85% reduction in stack generation time. Leveraged parallel processing, Go for improved performance, and utilized S3, Elasticsearch, and Spark.
+- Acted as the technical lead for a team of 4 engineers to rewrite the People recommendation algorithm, achieving a 40% improvement in key metrics and an 85% reduction in stack generation time. Leveraged parallel processing, Go for improved performance, and utilized S3, Elasticsearch, and Spark.
 - Led the server team in building infrastructure for audio notes and reactions on the Raya messaging app improving messaging engagement metrics accross by over 5%
 - Participated in the design, implementation and deployment of over 25 People Recommendation algorithm initiatives improving stack engagement metrics accross the board by over 5%
 
