@@ -3,10 +3,6 @@ Phone: +1 (714) 726-3429
 Email: lydamian@gmail.com
 Address: Fullerton, CA, 92833
 
-## Professional Summary
-Software engineer with 4 years experience. Proven ability to translate business needs into code, deploy intuitive solutions
-and active participant in tactical and strategic planning lifecycle.
-
 ## Education
 **University of California, Irvine** Bachelor of Science in Computer Science (2017 - 2019)
 * GPA: 3.7
